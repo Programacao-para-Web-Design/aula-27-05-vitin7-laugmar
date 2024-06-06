@@ -16,12 +16,12 @@
 			#Body{
 				background-color: blue; 
 			}
-			Header{
+			header{
 				background-color: red; 
 			}
 			#logo{
 				background-color: white;
-			Nav{
+			nav{
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
 			}
