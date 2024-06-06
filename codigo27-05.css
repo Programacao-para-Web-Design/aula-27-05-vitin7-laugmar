@@ -21,12 +21,12 @@
 			#Body{
 				background-color: blue; 
 			}
-			#Header{
+			Header{
 				background-color: red; 
 			}
 			#logo{
 				background-color: white;
-			#Nav{
+			Nav{
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
 			}
@@ -48,7 +48,7 @@
 			#ass2{
 				background-color: gray; 
 			}
-			#fot{
+			footer{
 				background-color: maroon; 
 			}
 		</style>
