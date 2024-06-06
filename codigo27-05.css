@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt br">
 	<head>
@@ -33,7 +34,7 @@
 				background-color: green; 
 			}
 			#ass{
-				background-color: red; 
+				background-color: pink; 
 			}
 			#sex{
 				background-color: purple; 
@@ -45,10 +46,10 @@
 				background-color: brown; 
 			}
 			#ass2{
-				background-color: green; 
+				background-color: gray; 
 			}
 			#fot{
-				background-color: pink; 
+				background-color: maroon; 
 			}
 		</style>
 	</head>
