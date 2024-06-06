@@ -30,7 +30,7 @@
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			ul{
-				justify-content: space-between;
+				justify-content: space-around;
 			}
 			main{
 				background-color: green; 
