@@ -26,6 +26,7 @@
 			}
 			nav{
 				display: flex;
+				justify-content: space-between;
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
 			}
