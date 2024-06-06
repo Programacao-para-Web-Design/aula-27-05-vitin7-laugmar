@@ -25,7 +25,7 @@
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
 			}
-			#man{
+			main{
 				background-color: green; 
 			}
 			#ass{
@@ -45,4 +45,5 @@
 			}
 			footer{
 				background-color: maroon; 
+				width: 100%;
 			}
