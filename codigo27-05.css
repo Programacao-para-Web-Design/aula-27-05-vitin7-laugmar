@@ -1,56 +1,97 @@
-			.nome{
-				font-weight: bold;	
-				font-size: 17px;
-				text-align: center;
-			}
-			#devj{
-				font-style: italic;
-				font-size: 25px;
-				text-align: center;
-			}
+											/* cabeçalho*/
 
-			#nomees{
-				font-size: 17px;
-				text-align: center;
-				color: white;
-			}
-			#Body{
-				background-color: blue; 
-			}
-			header{
-				background-color: red; 
-				color: white;
-			}
-			#logo{
-				background-color: white;
-			}
-			nav{
-				display: flex;
-				background-color: yellow;
-				box-shadow: 7px 7px 9px 0px black;
-			}
-			ul{
-				justify-content: space-around;
-			}
-			main{
-				background-color: green; 
-			}
-			#ass{
-				background-color: pink; 
-			}
-			#sex{
-				background-color: purple; 
-			}
-			#art{
-				background-color: orange; 
-			}
-			#art2{
-				background-color: brown; 
-			}
-			#ass2{
-				background-color: gray; 
-			}
-			footer{
-				background-color: maroon; 
-				width: 100%;
-			}
+header{
+	background-color: red; 
+	color: white;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+#logo{
+	background-color: white;
+}
+nav{
+	display: flex;
+	background-color: yellow;
+	box-shadow: 7px 7px 9px 0px black;
+	justify-content: center;
+	align-items: center;				
+}
+ul{
+	justify-content: space-around;
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+}
+
+											/* corpo*/
+
+.nome{
+	font-weight: bold;	
+	font-size: 17px;
+	text-align: center;
+}
+#devj{
+	font-style: italic;
+	font-size: 25px;
+	text-align: center;
+}
+
+#nomees{
+	font-size: 17px;
+	text-align: center;
+	color: white;
+}
+#Body{
+	background-color: blue; 
+}
+			
+main{
+	margin-top: 3%;
+	display: flex;
+	background-color: green; 
+	height: 60vh;
+	width: 100%;
+}
+#ass{
+	margin-top: 10px;
+	background-color: pink;
+	width: 21%; 
+	height: 90%;
+}
+#sex{
+	margin-top: 10px;
+	margin-right: 10px;
+	display: block;
+	width: 78%;
+	height: 90%;
+	background-color: purple; 
+}
+#art{
+	margin: 20px 10px 10px 20px; 
+	width: 97%;
+	height: 45%;
+	background-color: orange; 
+}
+#art2{
+	margin: 10px 10px 10px 20px; 
+	width: 97%;
+	height: 45%;
+	background-color: brown; 
+}
+#ass2{
+	margin-left: 69.5%;
+	border: solid 3px brown;
+	top: 150px;
+	width: 30%;
+	height: 97%;
+	background-color: gray; 
+}
+
+											/* footer*/
+
+footer{
+	background-color: rgb(15, 224, 197); 
+	width: 100%;
+}
